@@ -2,4 +2,5 @@ streamlit
 plotly
 pandas
 numpy
+matplotlib
 # add any other libraries your app uses
