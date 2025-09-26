@@ -1,0 +1,5 @@
+streamlit
+plotly
+pandas
+numpy
+# add any other libraries your app uses
